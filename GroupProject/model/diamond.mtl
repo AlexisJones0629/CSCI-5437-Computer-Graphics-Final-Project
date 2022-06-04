@@ -1,0 +1,12 @@
+# Blender MTL File: 'diamond.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 31.372549
+Ka 1.000000 1.000000 1.000000
+Kd 0.163660 0.468616 0.640000
+Ks 0.977012 0.977012 0.977012
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
